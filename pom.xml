@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://192.168.78.151:8081/repository/nanda/</url>
+            <url>http://192.168.78.157:8081/repository/shiva-release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://192.168.78.151:8081/repository/siva-snapshot/</url>
+            <url>http://192.168.78.157:8081/repository/nanda-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
